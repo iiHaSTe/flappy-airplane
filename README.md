@@ -12,6 +12,7 @@ my plappy airplane using
   3. after you don't touch dripstone
   you added `1` to your score
 
-
+## LIBRARYS
+I used __~~KaboomJS~~__ for game only
 
 **__`Enjoy :)`__**

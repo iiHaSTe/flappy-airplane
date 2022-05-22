@@ -94,7 +94,7 @@ function spawnPipes(){
   let y = Math.floor(Math.random() * -550);
   if (y > -230)
     y = -230;
-  let black = 80;
+  let black = 130;
   add([
     sprite("dripstone-top"),
     pos(window.innerWidth, y),
